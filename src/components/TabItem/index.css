@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.tab-heading {
+  box-sizing: content-box;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 14px;
+  color: #7b8794;
+  text-align: center;
+  padding: 8px;
+  border: 0px;
+  border-bottom: 2px solid #7b8794;
+}
+.tab-head-color {
+  font-size: 14px;
+  color: #2563eb;
+  border: 0px;
+  border-bottom: 2px solid #2563eb;
+}
+
+.tab-hr {
+  box-sizing: content-box;
+  margin-top: 10px;
+  width: 59px;
+  color: #7b8794;
+  border-bottom: 1px solid #7b8794;
+}
+
+.hr-color {
+  transform: scale(1, 1);
+  color: #2563eb;
+  border-bottom: 1px solid #2563eb;
+}

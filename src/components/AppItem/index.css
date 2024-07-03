@@ -1,0 +1,22 @@
+.image-container {
+  background-color: #fff;
+  background-size: cover;
+  border-radius: 10px;
+  width: 130px;
+  height: 130px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.image-container img {
+  width: 46px;
+  height: 46px;
+}
+
+.image-container p {
+  font-family: 'bree serif';
+  font-size: 15px;
+  font-weight: 500;
+  color: #1e293b;
+}
